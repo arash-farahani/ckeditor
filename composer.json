@@ -1,12 +1,19 @@
 {
-    "name": "cruddy/ckeditor",
+    "name": "diamond/ckeditor",
 
     "description": "A CKEditor for Cruddy.",
 
     "keywords": [ "cruddy", "ckeditor" ],
 
     "authors": [
-        { "name": "Alexander Kalnoy",  "email": "lazychaser@gmail.com" }
+        {
+            "name": "Alexander Kalnoy",
+            "email": "lazychaser@gmail.com"
+        },
+        {
+            "name": "Arash Fraahani",
+            "email": "arashmf71@gmail.com"
+        }
     ],
 
     "require": {
